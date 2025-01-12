@@ -10,8 +10,8 @@ https://blog.podkalicki.pl/attiny13-dance-lights-with-dft/#comment-186
 follow the license but we did not know what is or try what, just follow.  
 add python code dft.py to build twiddle_factors.h  
 main.c, include twiddle_factors.h  
-dosmake.bat and build_hex.bat for avr firmware build,  output folder /firmware
-updates build_hex.bat to uses AVR 8-Bit Toolchain (Windows) 3.7.0   
+dosmake.bat and build_hex.bat for avr firmware build,  output folder /firmware  
+updates build_hex.bat to uses AVR 8-Bit Toolchain (Windows) 3.7.0, rebuild hex,     
 
 main.c, changed and snippet, for testing and memo  
 ```
