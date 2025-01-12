@@ -4,6 +4,7 @@ copy and learn
 ### original author  
 BSD-3-Clause license  
 https://github.com/lpodkalicki/blog/tree/master/avr/attiny13/018_dance_lights_with_dft
+https://blog.podkalicki.pl/attiny13-dance-lights-with-dft/#comment-186  
 
 ### my code
 follow the license but we did not know what is or try what, just follow.  
